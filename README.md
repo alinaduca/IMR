@@ -1,4 +1,4 @@
-# IMR 🕶️🎮
+# IMR 🎮
 
 🎥 Puteți vizualiza aici [video-ul pentru tema 1](https://youtu.be/u1ghEGRu_sE).
 
