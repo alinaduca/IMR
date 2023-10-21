@@ -10,7 +10,7 @@
 
 📺 Puteți vizualiza aici [video-ul pentru tema 2](https://youtu.be/1nUGfSdjLVk).
 
-📝 **Tutoriale și informații utile pentru tema 2:**
+📝 Tutoriale și informații utile pentru tema 2:
 
  - [Demo setup](https://www.youtube.com/watch?v=Tu4eoUiy8rU), [Demo setup 2](https://www.youtube.com/watch?v=UlqdHrfXppoe)
  - [How To Grab and Throw Objects In Virtual Reality](https://www.youtube.com/watch?v=D2L12lINwzk&t=1s)
